@@ -18,7 +18,7 @@ body {
   font: 400 0.8em verdana, arial, sans-serif;
   line-height: 170%;
 
-  background: url(../images/background.jpg);
+  background: #000;
   color: #EEE;
 }
 
@@ -129,7 +129,7 @@ code {
   line-height: 120%;
   white-space: pre;
   
-  background: url(../images/background.jpg);
+  background: #000;
 }
 
 .leftColumn code {
