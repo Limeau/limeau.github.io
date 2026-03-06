@@ -12,11 +12,18 @@
              to convert to a fixed width site.
  **************************************************************/
 
-#content {  
+#contentcenter {  
   height: 100%;
   min-height: 100%;
 
   text-align: center;
+}
+
+#content {  
+  height: 100%;
+  min-height: 100%;
+
+  text-align: left;
 }
 
 #content,
