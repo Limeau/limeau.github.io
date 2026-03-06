@@ -70,7 +70,7 @@
 
 #mainMenu li a:hover,
 #mainMenu li a.here {
-  color: #B47EDE;
+  color: #65EBFF;
   border-top: 5px solid #000;
 }
 
@@ -108,7 +108,7 @@ ul.sideMenu {
 } 
 
 .sideMenu li a:hover {
-  color: #B47EDE;
+  color: #65EBFF;
   background: #5F5F5F;
 }
 
@@ -116,7 +116,7 @@ ul.sideMenu {
 .sideMenu li.here {
   display: block;  
   padding: 5px;
-  color: #B47EDE;
+  color: #65EBFF;
   background: #555;
 }
 
@@ -134,7 +134,7 @@ ul.sideMenu {
 }
 
 .sideMenu li.here ul li a:hover {
-  color: #B47EDE;
+  color: #9FF3FF;
   background: #5F5F5F url(../images/bg/bullet.gif) no-repeat 10px 0px;
 }
 
