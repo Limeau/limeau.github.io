@@ -153,6 +153,7 @@ ul.sideMenu {
 
 #page {
   float: left;
+  text-align: left
   width: 100%;
   clear: both;
   
