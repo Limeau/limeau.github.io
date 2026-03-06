@@ -158,7 +158,7 @@ ul.sideMenu {
   text-align: left
   width: 100%;
   clear: both;
-  
+  align-items: stretch;
   padding-bottom: 4em;
 }
 
