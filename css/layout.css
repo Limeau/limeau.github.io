@@ -27,6 +27,7 @@
 }
 
 #content,
+#contentcenter,
 #width {
   /* max-width hack for IE since it doesn't understand the valid css property */
   width: expression(document.body.clientWidth > 1000 ? "1000px" : "94%");  
@@ -35,6 +36,7 @@
 }
 
 #content[id],
+#contentcenter[id],
 #width[id] {
   width: 94%;
   height: auto;
