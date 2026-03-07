@@ -293,9 +293,9 @@ ul.sideMenu {
 }
 
 .buttonClass {
-  font-size:12px;
-  width:70px;
-  height:25px;
+  font-size:10px;
+  width:100px;
+  height:30px;
   border-width:1px;
   color:rgba(255, 255, 255, 1);
   border-color:rgba(144, 19, 254, 1);
