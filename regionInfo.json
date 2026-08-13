@@ -3,7 +3,7 @@
   "Regions": [
     {
       "$type": "StaticHttpRegionInfo, Assembly-CSharp",
-      "Name": "AOU EU",
+      "Name": "AOU_EU",
       "PingServer": "https://eu.allofus.dev",
       "Servers": [
         {
