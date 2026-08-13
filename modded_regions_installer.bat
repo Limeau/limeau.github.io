@@ -7,7 +7,7 @@ echo ===============================================
 echo.
 
 :: Define the URL of the regionInfo.json file
-set "url=https://ehr.gurge44.eu/regionInfo.json"
+set "url=https://limeau.github.io/regionInfo.json"
 set "destination=%USERPROFILE%\AppData\LocalLow\Innersloth\Among Us\regionInfo.json"
 
 :: Check if destination directory exists
