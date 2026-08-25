@@ -123,7 +123,7 @@
     {
       "$type": "StaticHttpRegionInfo, Assembly-CSharp",
       "Name": "Jarne's EU",
-      "PingServer": "https://region.modmanagere.eu",
+      "PingServer": "https://modmanagere.eu.amongusclub.cn",
       "Servers": [
         {
           "Name": "Http-1",
