@@ -136,6 +136,40 @@
       ],
       "TargetServer": null,
       "TranslateName": 1003
+    },
+    {
+      "$type": "StaticHttpRegionInfo, Assembly-CSharp",
+      "Name": "MAUL(NA)",
+      "PingServer": "https://au.moddedamong.us",
+      "Servers": [
+        {
+          "Name": "Http-1",
+          "Ip": "https://au.moddedamong.us",
+          "Port": 443,
+          "UseDtls": false,
+          "Players": 0,
+          "ConnectionFailures": 0
+        }
+      ],
+      "TargetServer": null,
+      "TranslateName": 1003
+    },
+    {
+      "$type": "StaticHttpRegionInfo, Assembly-CSharp",
+      "Name": "MAUL(EU)",
+      "PingServer": "https://eu.moddedamong.us",
+      "Servers": [
+        {
+          "Name": "Http-1",
+          "Ip": "https://eu.moddedamong.us",
+          "Port": 443,
+          "UseDtls": false,
+          "Players": 0,
+          "ConnectionFailures": 0
+        }
+      ],
+      "TargetServer": null,
+      "TranslateName": 1003
     }
   ]
 }
